@@ -10,6 +10,6 @@ The purpose of this repository is to illustrate a simple analysis of a small dat
 Note that the Source nodes in the Modeler streams and the Read/Write statements in the notebooks may need to be adjusted to your environment.
 
 ## Folder structure
-|--: code like notebooks, streams, etc.
-|--data: the data from the kaggle competition
-|--docs: presentations, reports, visualizations, etc.
+* .\    : code like notebooks, streams, etc.
+* .\data: the data from the kaggle competition
+* .\docs: presentations, reports, visualizations, etc.
